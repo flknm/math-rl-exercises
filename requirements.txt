@@ -1,0 +1,6 @@
+# JupyterLite and the browser-based Python kernel.
+# Versions are based on the working JupyterLite demo template.
+jupyterlite-core==0.8.0
+jupyterlite-pyodide-kernel==0.8.0
+jupyterlab~=4.6.0
+notebook~=7.6.0
